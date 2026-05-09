@@ -16,6 +16,7 @@ Venkateswaran
 - Ty Patrick
 - [Haziqfr](https://github.com/haziqfr/) @ 05/08/2026
 - [Abhishek Dam](https://github.com/abhishekdam) @ 05/05/2026
+- [Patrick Zoungla] (https://github.com/KoujoX) @ 08/05/2026
 -[Preeti Singh](https://github.com/Pr241singh)
 -[Rahul Krishnan](https://github.com/Rahul2870-new)
 - [Alex Cutler](https://github.com/cacutler)
@@ -221,6 +222,7 @@ Aronas
 - [zy](https://github.com/)
 - [Jon Gomez](https://github.com/jongomez-sys)
 - [Tamish Ashtankar](https://github.com/Tamish-arch)
+- [Ricidleiv](https://github.com/tondatto)
 - [Khushal Pareta](https://github.com/Kennny7)
 - [Garv Choure](https://github.com/garvv29)
 - [Jimmy Mayta](https://github.com/jimmymayta)
@@ -761,6 +763,7 @@ Alicexxxx
 - [Areeba Tahir](https://github.com/areebatahir11/)
 - [23f3001092](https://github.com/23f3001092)
 - [23f2000832](https://github.com/23f2000832)
+- [Quillenar-dev](https://github.com/Quillenar-dev)
 - [Nicolas Iglesias](https://github.com/NicolasIgles)
 - [23f3001092](https://github.com/ChandraMohaniitm)
 - [22f2000954](https://github.com/22f2000954)
@@ -826,6 +829,7 @@ Vinayakrishna
 - [Ayush kumar maury](https://github.com/Ayush4O4)
 - [Esneider Veliz Guerrero](https://github.com/Esneider1107)
 - [Madhuri H S](https://github.com/MADHURI-HS)
+- [HibatulM] (https://github.com/HibatulM)
 - [Jose Daniel Mesa](https://github.com/Jdmesa)
 - [Jeevan-1205](https://github.com/Jeevan-1205)
 - [Alessandro Gomez]
@@ -1644,6 +1648,7 @@ Meshach
 - [Harsh](https://github.com/harsh5d5)
 - [Evan Rhea](https://github.com/MegaSF)
 - Evangelin
+- [Adam LaRusso](https://github.com/Nyagamun)
 - [Ezra K](https://github.com/EzraKL)
 - [Samudraneel](https://github.com/23f3002744)
 - [Farmata Kane](https://github.com/miiswom)
